@@ -14,6 +14,9 @@ The purpose of this is to let those who have been blocked by those who are
 trumpeting GamerGate and all of its ills. It does so silently and does not 
 do anything other than tweet.
 
+The real bot is working at this account:
+[https://twitter.com/SJWListAlert](https://twitter.com/SJWListAlert)
+
 Requirements
 ------------
 * Python 2.7

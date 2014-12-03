@@ -15,6 +15,7 @@ trumpeting GamerGate and all of its ills. It does so silently and does not
 do anything other than tweet.
 
 The real bot is working at this account:
+
 [https://twitter.com/SJWListAlert](https://twitter.com/SJWListAlert)
 
 Requirements
@@ -22,8 +23,9 @@ Requirements
 * Python 2.7
 
 You'll need the following Python libraries:
-* [http://docs.python-requests.org/en/latest/](Requests)
-* [https://pypi.python.org/pypi/python-twitter/2.0](Python-Twitter)
+
+* [Requests](http://docs.python-requests.org/en/latest/)
+* [Python-Twitter](https://pypi.python.org/pypi/python-twitter/2.0)
 
 Notes
 -----
